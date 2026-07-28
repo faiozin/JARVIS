@@ -1,0 +1,22 @@
+{
+  "name": "J.A.R.V.I.S. — Assistente de IA",
+  "short_name": "J.A.R.V.I.S.",
+  "description": "Assistente de IA premium estilo Iron Man com interface holográfica e reconhecimento de voz em português brasileiro.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
